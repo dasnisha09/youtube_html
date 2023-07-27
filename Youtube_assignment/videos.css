@@ -1,0 +1,24 @@
+.videos_whole{
+    /* display: flex; */
+    flex-wrap: wrap;
+    /* border: 2px solid red; */
+    margin-left: 280px;
+    padding-top: 80px;
+    /* margin: 10px; */
+}
+.vid.a{
+    
+}
+.logo img{
+    border-radius: 30px;}
+
+.details{
+    display: flex;
+}
+.video1{
+    display: flex;
+    margin: 40px;
+}
+.video i{
+    border-radius: 10px;
+}
